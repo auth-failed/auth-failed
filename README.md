@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**auth-failed/auth-failed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Info:
+    def __init__(self):
+        self.name = "auth"
+        self.age = 16
+        self.location = "somewhere in czechia"
+        self.pronouns = ["he", "him"]
+        self.languages = ["Python", "Go (kind of)"]
+        self.hobbies = [
+            "cs2 hvh",
+            "coding",
+            "writing code with an ungodly amount of bugs",
+        ]
+        self.now = "writing buggy code"
+```
